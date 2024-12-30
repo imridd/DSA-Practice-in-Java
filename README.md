@@ -6,7 +6,7 @@ My goal is to improve my problem-solving abilities by solving 5 problems daily a
 ## Table of Contents
 
 - [Daily Practice](#daily-practice)
-- [Technologies Used](#technologies-used)
+- [Technology Used](#technology-used)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
