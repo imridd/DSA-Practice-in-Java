@@ -15,6 +15,7 @@ My goal is to improve my problem-solving abilities by solving 5 problems daily a
 Each day, I tackle 5 problems from various DSA topics, such as:
 
 - Arrays
+- Strings
 - Linked Lists
 - Trees
 - Graphs
